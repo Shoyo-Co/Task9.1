@@ -62,6 +62,4 @@ public class ShowAllItemsActivity extends AppCompatActivity {
         cursor.close();
         db.close();
     }
-
-    // Please output the class of ItemAdapter by yourself.
 }
